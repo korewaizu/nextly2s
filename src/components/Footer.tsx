@@ -72,7 +72,7 @@ export function Footer() {
             </div>
           </div>
           <div className="">
-            <div>Follow us</div>
+            <div>Redes Sociais</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
                 href="https://twitter.com/2snet"
