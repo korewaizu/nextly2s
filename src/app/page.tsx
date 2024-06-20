@@ -13,8 +13,8 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
-        title=" Why should you use this landing page"
+        preTitle="Beneficios da Consultoria"
+        title=" Por que você deveria fazer uma consultoria conosco?"
       >
         Nextly is a free landing page & marketing website template for startups
         and indie projects. Its built with Next.js & TailwindCSS. And its
@@ -36,8 +36,8 @@ export default function Home() {
       <Video videoId="fZ0D0cnR88E" />
 
       <SectionTitle
-        preTitle="Testimonials"
-        title="Here's what our customers said"
+        preTitle="Comentários"
+        title="Aqui estão algumas avaliações"
       >
         Testimonials is a great way to increase the brand trust and awareness.
         Use this section to highlight your popular customers.

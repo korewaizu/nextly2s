@@ -24,14 +24,13 @@ export function Footer() {
                   height="32"
                   className="w-8"
                 />
-                <span>Nextly</span>
+                <span>2S NET</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website template for
-              startups and indie projects. Its built with Next.js & TailwindCSS.
-              And its completely open-source.
+              Empresa focada em consultoria e implantação de sistemas, atendendo
+              diversas empresas e também startups.
             </div>
 
             <div className="mt-5">
@@ -41,12 +40,7 @@ export function Footer() {
                 rel="noopener"
                 className="relative block w-44"
               >
-                <Image
-                  src="/img/vercel.svg"
-                  alt="Powered by Vercel"
-                  width="212"
-                  height="44"
-                />
+ 
               </a>
             </div>
           </div>
@@ -81,7 +75,7 @@ export function Footer() {
             <div>Follow us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
-                href="https://twitter.com/web3templates"
+                href="https://twitter.com/2snet"
                 target="_blank"
                 rel="noopener"
               >
@@ -89,7 +83,7 @@ export function Footer() {
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/web3templates"
+                href="https://facebook.com/2snet"
                 target="_blank"
                 rel="noopener"
               >
@@ -97,14 +91,14 @@ export function Footer() {
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/web3templates"
+                href="https://instagram.com/2snetconsultoria"
                 target="_blank"
                 rel="noopener"
               >
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
-              <a href="https://linkedin.com/" target="_blank" rel="noopener">
+              <a href="https://linkedin.com/company/2s-net" target="_blank" rel="noopener">
                 <span className="sr-only">Linkedin</span>
                 <Linkedin />
               </a>
