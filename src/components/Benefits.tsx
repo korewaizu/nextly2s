@@ -38,7 +38,7 @@ export const Benefits = (props: Readonly<BenefitsProps>) => {
         </div>
 
         <div
-          className={`flex flex-wrap items-center w-full lg:w-1/2 ${
+          className={`flex flex-wrap px-8 items-center w-full lg:w-1/2 ${
             data.imgPos === "right" ? "lg:justify-end" : ""
           }`}>
           <div>
@@ -68,7 +68,7 @@ export const Benefits = (props: Readonly<BenefitsProps>) => {
 function Benefit(props: any) {
   return (
       <div className="flex items-start mt-8 space-x-3">
-        <div className="flex items-center justify-center flex-shrink-0 mt-1 bg-indigo-500 rounded-md w-11 h-11 ">
+        <div className="flex items-center justify-center flex-shrink-0 mt-1 bg-blue-700 rounded-md w-11 h-11 ">
           {React.cloneElement(props.icon, {
             className: "w-7 h-7 text-indigo-50",
           })}

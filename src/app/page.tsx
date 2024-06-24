@@ -37,17 +37,14 @@ export default function Home() {
 
       <SectionTitle
         preTitle="Comentários"
-        title="Aqui estão algumas avaliações"
+        title="Algumas avaliações dos nossos clientes"
       >
-        Testimonials is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
       </SectionTitle>
 
       <Testimonials />
 
-      <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      <SectionTitle preTitle="FAQ" title="Perguntas Frequentes">
+
       </SectionTitle>
 
       <Faq />
