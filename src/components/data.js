@@ -2,7 +2,7 @@ import {
   FaceSmileIcon,
   ChartBarSquareIcon,
   CursorArrowRaysIcon,
-  Calculator,
+  DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
 } from "@heroicons/react/24/solid";
@@ -41,7 +41,7 @@ const benefitTwo = {
     {
       title: "Consultoria tributária e fiscal",
       desc: "Prestamos serviços de consultoria tributária para seu negócio.",
-      icon: <Calculator />,
+      icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "Treinamentos personalizados e suporte técnico",
