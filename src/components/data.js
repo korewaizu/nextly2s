@@ -49,8 +49,8 @@ const benefitTwo = {
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Atendimento a empresas de todos os portes e segmentos",
-      desc: "Nextly comes with a zero-config light & dark mode.",
+      title: "Inovação no atendimento, para empresas de todos os portes e segmentos",
+      desc: "Soluções adaptadas à realidade de cada negócio.",
       icon: <SunIcon />,
     },
   ],
