@@ -16,18 +16,18 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Implantação de Sistemas",
+      desc: "Acompanhamos todo o processo de implementação de sistemas ERP, CRM e outras soluções de gestão — do planejamento à entrega final.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Otimização de Processos Empresariais",
+      desc: "Mapeamos, redesenhamos e automatizamos processos para tornar sua operação mais ágil, econômica e eficaz.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Consultoria de Sistemas",
+      desc: "Identificamos oportunidades de melhoria no uso dos seus sistemas atuais e ajudamos na escolha e adaptação das melhores ferramentas para o seu negócio.",
       icon: <CursorArrowRaysIcon />,
     },
   ],

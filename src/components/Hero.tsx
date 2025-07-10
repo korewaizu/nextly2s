@@ -44,7 +44,7 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Com a confiança de mais de <span className="text-blue-800">+2000</span>{" "}
+            Com a confiança de mais de <span className="text-blue-800">+500</span>{" "}
             clientes
           </div>
 
