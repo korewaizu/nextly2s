@@ -39,18 +39,18 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Consultoria Tributária",
+      title: "Consultoria tributária e fiscal",
       desc: "Prestamos serviços de consultoria tributária para seu negócio.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Inovação",
+      title: "Treinamentos personalizados e suporte técnico",
       desc: "A busca por atender às necessidades dos nossos clientes nos faz inovar, sempre em conexão com as tendências.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Atendimento a empresas de todos os portes e segmentos",
+      desc: "Nextly comes with a zero-config light & dark mode.",
       icon: <SunIcon />,
     },
   ],

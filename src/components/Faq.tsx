@@ -36,21 +36,21 @@ export const Faq = () => {
 
 const faqdata = [
   {
-    question: "O que é um sistema ERP?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Quais empresas podem contratar a 2S Net?",
+    answer: "Atendemos empresas de todos os portes e segmentos que buscam mais eficiência com tecnologia e processos bem definidos.",
   },
   {
-    question: "Esse tipo de serviço é para minha empresa?",
-    answer: "Yes, this you can.",
+    question: "Vocês trabalham apenas com o ERP Teorema?",
+    answer: "Nosso foco principal é o ERP Teorema, mas também oferecemos consultoria em processos que se integram a outros sistemas.",
   },
   {
-    question: "Quanto o valor do serviço? ",
+    question: "O que está incluído no suporte técnico?",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Inclui atendimento remoto, resolução de dúvidas, ajustes no sistema e atualizações constantes.",
   },
   {
-    question: "Vou ter assistência, se sim por quanto tempo? ",
+    question: "Oferecem treinamentos presenciais?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Sim, oferecemos treinamentos presenciais e online, conforme a necessidade da empresa.",
   },
 ];
