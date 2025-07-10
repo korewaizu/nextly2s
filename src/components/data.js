@@ -1,10 +1,11 @@
-import FaceSmileIcon from "@heroicons/react/24/solid";
-import  ChartBarSquareIcon from "@heroicons/react/24/solid";
-import  CursorArrowRaysIcon from "@heroicons/react/24/solid";
-import  DevicePhoneMobileIcon from "@heroicons/react/24/solid";
-import  AdjustmentsHorizontalIcon from "@heroicons/react/24/solid";
-import  SunIcon from "@heroicons/react/24/solid";
-import { Calculator } from '@heroicons/react/24/solid';
+import {
+  FaceSmileIcon,
+  ChartBarSquareIcon,
+  CursorArrowRaysIcon,
+  DevicePhoneMobileIcon,
+  AdjustmentsHorizontalIcon,
+  SunIcon,
+} from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
@@ -40,7 +41,7 @@ const benefitTwo = {
     {
       title: "Consultoria tributária e fiscal",
       desc: "Prestamos serviços de consultoria tributária para seu negócio.",
-      icon: <Calculator />,
+      icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "Treinamentos personalizados e suporte técnico",
