@@ -6,6 +6,7 @@ import {
   AdjustmentsHorizontalIcon,
   SunIcon,
 } from "@heroicons/react/24/solid";
+import { HiOutlineCalculator } from 'solid-icons/hi'
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
@@ -41,7 +42,7 @@ const benefitTwo = {
     {
       title: "Consultoria tributária e fiscal",
       desc: "Prestamos serviços de consultoria tributária para seu negócio.",
-      icon: <DevicePhoneMobileIcon />,
+      icon: <HiOutlineCalculator />,
     },
     {
       title: "Treinamentos personalizados e suporte técnico",
