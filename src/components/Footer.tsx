@@ -35,7 +35,7 @@ export function Footer() {
 
             <div className="mt-5">
               <a
-                href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss"
+                href=""
                 target="_blank"
                 rel="noopener"
                 className="relative block w-44"
@@ -63,7 +63,7 @@ export function Footer() {
               {legal.map((item, index) => (
                 <Link
                   key={index}
-                  href="/"
+                  href="whatsapp"
                   className="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
                 >
                   {item}
