@@ -7,10 +7,8 @@ import { Disclosure } from "@headlessui/react";
 export const Navbar = () => {
   const navigation = [
     "Consultoria",
-    "Quem somos",
     "Fale conosco",
     "Solicite uma proposta",
-    "Blog",
   ];
 
   return (
