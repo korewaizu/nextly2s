@@ -39,13 +39,13 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Consultoria Tributária",
+      desc: "Prestamos serviços de consultoria tributária para seu negócio.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Inovação",
+      desc: "A busca por atender às necessidades dos nossos clientes nos faz inovar, sempre em conexão com as tendências.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
