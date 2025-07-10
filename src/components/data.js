@@ -11,8 +11,8 @@ import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Mais do que uma consultoria. Uma parceria de verdade.",
+  desc: "Diversas empresas confiam em nossa consultoria para conduzir transformações reais com tecnologia. Seja para começar do zero, reorganizar sua operação ou dar um salto em produtividade, estamos aqui para acelerar o seu próximo passo.",
   image: benefitOneImg,
   bullets: [
     {
