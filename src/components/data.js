@@ -5,6 +5,7 @@ import {
   DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
+  IconWorldCog,
 } from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
@@ -34,14 +35,14 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Fazendo a diferença no seu negócio.",
+  desc: "Entregamos serviços que sua empresa necessita com qualidade, confiança e segurança.",
   image: benefitTwoImg,
   bullets: [
     {
       title: "Mobile Responsive Template",
       desc: "Nextly is designed as a mobile first responsive template.",
-      icon: <DevicePhoneMobileIcon />,
+      icon: <IconWorldCog />,
     },
     {
       title: "Powered by Next.js & TailwindCSS",
