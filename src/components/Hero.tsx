@@ -174,4 +174,3 @@ function VerizonLogo() {
     </svg>
   );
 }
-

@@ -1,18 +1,17 @@
-import {
-  FaceSmileIcon,
-  ChartBarSquareIcon,
-  CursorArrowRaysIcon,
-  DevicePhoneMobileIcon,
-  AdjustmentsHorizontalIcon,
-  SunIcon,
-} from "@heroicons/react/24/solid";
+import FaceSmileIcon from "@heroicons/react/24/solid";
+import  ChartBarSquareIcon from "@heroicons/react/24/solid";
+import  CursorArrowRaysIcon from "@heroicons/react/24/solid";
+import  DevicePhoneMobileIcon from "@heroicons/react/24/solid";
+import  AdjustmentsHorizontalIcon from "@heroicons/react/24/solid";
+import  SunIcon from "@heroicons/react/24/solid";
+import Calculator from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
 
 const benefitOne = {
   title: "Mais do que uma consultoria. Uma parceria de verdade.",
-  desc: "Diversas empresas confiam em nossa consultoria para conduzir transformações reais com tecnologia. Seja para começar do zero, reorganizar sua operação ou dar um salto em produtividade, estamos aqui para acelerar o seu próximo passo.",
+  desc: "Ajudamos empresas a iniciarem, reorganizarem ou escalarem suas operações com tecnologia aplicada e consultoria estratégica.",
   image: benefitOneImg,
   bullets: [
     {
@@ -41,11 +40,11 @@ const benefitTwo = {
     {
       title: "Consultoria tributária e fiscal",
       desc: "Prestamos serviços de consultoria tributária para seu negócio.",
-      icon: <DevicePhoneMobileIcon />,
+      icon: <Calculator />,
     },
     {
       title: "Treinamentos personalizados e suporte técnico",
-      desc: "A busca por atender às necessidades dos nossos clientes nos faz inovar, sempre em conexão com as tendências.",
+      desc: "Oferecemos treinamentos personalizados e suporte técnico, sempre alinhados às necessidades dos nossos clientes.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
