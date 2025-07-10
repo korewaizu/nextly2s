@@ -5,8 +5,8 @@ import {
   DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
+  HiOutlineCalculator,
 } from "@heroicons/react/24/solid";
-import { HiOutlineCalculator } from 'solid-icons/hi';
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
