@@ -44,7 +44,13 @@ export function Footer() {
               </a>
             </div>
           </div>
-          
+
+          <div>
+
+          </div>
+          <div>
+
+          </div>
           <div className="">
             <div>Redes Sociais</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
