@@ -14,8 +14,7 @@ export default function Home() {
         preTitle="Beneficios da Consultoria"
         title=" Por que você deveria fazer uma consultoria conosco?"
       >
-Você sente que sua empresa poderia ser muito mais eficiente, mas esbarra em processos manuais, retrabalho e sistemas que não se comunicam entre si?
-A verdade é que, sem um sistema de gestão bem implementado e processos estruturados, seu negócio perde tempo, dinheiro e competitividade.
+Sua empresa poderia ser mais eficiente, mas enfrenta retrabalho, processos manuais e sistemas desconectados? Sem gestão integrada, o tempo e o dinheiro escorrem — e a competitividade também.
       </SectionTitle>
 
       <Benefits data={benefitOne} />
