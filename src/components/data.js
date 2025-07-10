@@ -4,7 +4,7 @@ import  CursorArrowRaysIcon from "@heroicons/react/24/solid";
 import  DevicePhoneMobileIcon from "@heroicons/react/24/solid";
 import  AdjustmentsHorizontalIcon from "@heroicons/react/24/solid";
 import  SunIcon from "@heroicons/react/24/solid";
-import Calculator from "@heroicons/react/24/solid";
+import { Calculator } from '@heroicons/react/24/solid';
 
 import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
