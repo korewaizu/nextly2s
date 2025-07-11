@@ -11,46 +11,46 @@ import benefitOneImg from "../../public/img/benefit-one.svg";
 import benefitTwoImg from "../../public/img/benefit-two.svg";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Mais do que uma consultoria. Uma parceria de verdade.",
+  desc: "Ajudamos empresas a iniciarem, reorganizarem ou escalarem suas operações com tecnologia aplicada e consultoria estratégica.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Implantação de Sistemas",
+      desc: "Acompanhamos todo o processo de implementação de sistemas ERP, CRM e outras soluções de gestão — do planejamento à entrega final.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Otimização de Processos Empresariais",
+      desc: "Mapeamos, redesenhamos e automatizamos processos para tornar sua operação mais ágil, econômica e eficaz.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Consultoria de Sistemas",
+      desc: "Identificamos oportunidades de melhoria no uso dos seus sistemas atuais e ajudamos na escolha e adaptação das melhores ferramentas para o seu negócio.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Fazendo a diferença no seu negócio.",
+  desc: "Entregamos serviços que sua empresa necessita com qualidade, confiança e segurança.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Consultoria tributária e fiscal",
+      desc: "Prestamos serviços de consultoria tributária para seu negócio.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Treinamentos personalizados e suporte técnico",
+      desc: "Oferecemos treinamentos personalizados e suporte técnico, sempre alinhados às necessidades dos nossos clientes.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Inovação no atendimento, para empresas de todos os portes e segmentos",
+      desc: "Soluções adaptadas à realidade de cada negócio.",
       icon: <SunIcon />,
     },
   ],

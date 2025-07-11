@@ -12,16 +12,16 @@ export const Hero = () => {
               Consultoria que te traz resultados
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Com a nosso método você com certeza vai notar os resultados em sua empresa
+              Unimos tecnologia, eficiência e expertise tributária para impulsionar seu crescimento com ERP Teorema, processos otimizados e suporte completo.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+                href="/"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-blue-700 rounded-md ">
-                Atendimento Premium
+                Falar com um Especialista
               </a>
 
             </div>
@@ -44,7 +44,7 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Com a confiança de mais de <span className="text-blue-800">+2000</span>{" "}
+            Com a confiança de mais de <span className="text-blue-800">+500</span>{" "}
             clientes
           </div>
 
@@ -174,4 +174,3 @@ function VerizonLogo() {
     </svg>
   );
 }
-
