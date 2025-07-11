@@ -12,7 +12,7 @@ export default function Home() {
       <Hero />
       <SectionTitle
         preTitle="Beneficios da Consultoria"
-        title=" Por que fazer uma consultoria?"
+        title="Por que fazer uma consultoria?"
       >
 Sua empresa poderia ser mais eficiente, mas enfrenta retrabalho, processos manuais e sistemas desconectados? 
 Sem gestão integrada, o tempo e o dinheiro escorrem — e a competitividade também.
