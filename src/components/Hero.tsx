@@ -154,23 +154,6 @@ function SonyLogo() {
 }
 
 function VerizonLogo() {
-  return (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="138"
-      height="31"
-      viewBox="0 0 658 146">
-      <g fill="none" fillRule="evenodd" stroke="none" strokeWidth="1">
-        <g>
-          <path
-            fill="currentColor"
-            d="M642.7 0L606.8 76.8 593.3 47.7 578.7 47.7 600.9 95.3 612.7 95.3 657.2 0z"></path>
-          <path
-            fill="currentColor"
-            fillRule="nonzero"
-            d="M22.182 0L15.5 11.865l-3.095-6.21-2.62.001L15.5 24 24 0zM0 7.04h2.99l2.98 10.89h.06l3.01-10.89h2.84L7.4 24H4.63L0 7.04zm10.92 0h2.82v3.17h.07c1.25-2.37 3.55-3.52 6.38-3.52 4.01 0 6.47 2.72 6.47 6.85V24h-2.83v-9.34c0-2.83-1.47-4.43-4.08-4.43-2.69 0-4.34 1.86-4.34 4.87V24h-2.89V7.04z"></path>
-        </g>
-      </g>
-    </svg>
-  );
+  return <img src="aca.png" alt="Verizon Logo" width={138} height={31} />;
+});
 }
