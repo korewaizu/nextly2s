@@ -73,7 +73,7 @@ export const Hero = () => {
 
 function AmazonLogo() {
   return (
-<Image src="/public/brands/repinho.svg" alt="Repinho" width={150} height={31} className="h-10 w-auto" />
+<Image src="../../public/img/repinho.svg" alt="Repinho" width={150} height={31} />
   );
 }
 
