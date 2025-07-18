@@ -73,7 +73,7 @@ export const Hero = () => {
 
 function AmazonLogo() {
   return (
-<Image src="../../public/img/brands/aca.png" alt="aca" width={150} height={31} />
+<Image src="../public/img/aca.png" alt="aca" width={150} height={31} />
   );
 }
 
